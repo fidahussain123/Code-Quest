@@ -2,6 +2,29 @@
   width: 40%;
 
 }
+.FIRSTH1 {
+  font-size: 100px;
+  font-weight: 1000;
+  font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+
+/* Media query for phones */
+@media only screen and (max-width: 600px) {
+  .FIRSTH1 {
+    font-size: 30px; /* Adjust the font size for phone mode */
+    font-weight: 800;
+    margin-top: 50px;
+  }
+}
+
+/* Media query for tablets */
+@media only screen and (min-width: 601px) and (max-width: 1024px) {
+  .FIRSTH1 {
+    font-size: 80px; /* Adjust the font size for tablet mode */
+    font-weight: 750;
+  }
+}
+
 
 @media only screen and (max-width: 768px) {
   .logo {
@@ -14,6 +37,18 @@
 
   }
 
+}
+@font-face{
+  font-family: myfont2;
+  src: url("ShadowHand.ttf");
+}
+.FIRSTH1{
+  font-family: myfont2;
+}
+
+
+.content{
+  font-weight: 1000;
 }
 
 .button-container {
