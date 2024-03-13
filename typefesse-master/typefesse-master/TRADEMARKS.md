@@ -1,1 +1,1 @@
-Typefesse is a trademark of Océane Juvin.
+Typefesse is a trademark of OcÃ©ane Juvin.

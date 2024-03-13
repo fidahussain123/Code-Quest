@@ -1,1 +1,1 @@
-Copyright (c) 2019, Océane Juvin <oceane-j@laposte.net>
+Copyright (c) 2019, OcÃ©ane Juvin <oceane-j@laposte.net>
