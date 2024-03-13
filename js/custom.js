@@ -79,7 +79,7 @@ saturday.forEach(function(ev, index){
 
 });
 str += '</tbody>';
-// window.document.getElementById("saturdayContainer").innerHTML = str;
+window.document.getElementById("saturdayContainer").innerHTML = str;
 
 var str = '<tbody>';
 str +=  '<tr><th></th><th>Main track</th><th></tr>';
@@ -128,4 +128,4 @@ sunday.forEach(function(ev, index){
 
 });
 str += '</tbody>';
-// window.document.getElementById("sundayContainer").innerHTML = str;
+window.document.getElementById("sundayContainer").innerHTML = str;
